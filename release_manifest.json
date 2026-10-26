@@ -1,8 +1,7 @@
 {
   "versionName": "1.0.1",
   "revision": 2,
-  "apkPath": "releases/v1.0.1-2/app-release.apk",
-  "apkUrl": "https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/eyanproducts/releases/v1.0.1-2/app-release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/prakashec13/eyanproductsrelease/main/releases/v1.0.1-2/app-release.apk",
   "changelog": [
     "Prevent the dashboard from appearing before the session check finishes.",
     "Provide Android downloads from the dedicated public Eyan release branch."
@@ -10,5 +9,6 @@
   "forceUpdate": false,
   "minSupportedRevision": 1,
   "sha256": "4c4469285a0cec1e55ee3566ddc2a3092190cc5d9125e6fba331fe3b118e2b54",
-  "sizeBytes": 74052510
+  "sizeBytes": 74052510,
+  "repository": "https://github.com/prakashec13/eyanproductsrelease"
 }
