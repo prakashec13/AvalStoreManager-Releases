@@ -1,0 +1,1 @@
+a4840febc18ef50b25e5e9d6b8071d9b9786036ff6c71c0415d306e6289ed2cd  releases/v1.0.0-1/app-release.apk

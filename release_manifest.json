@@ -1,0 +1,17 @@
+{
+  "versionName": "1.0.0",
+  "revision": 1,
+  "apkPath": "releases/v1.0.0-1/app-release.apk",
+  "apkUrl": "https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.0.0-1/app-release.apk",
+  "changelog": [
+    "First AxleBook release for heavy vehicle rental and logistics.",
+    "Owner-only Firebase access, atomic trip accounting and monthly summaries.",
+    "Vehicle and driver management, maintenance expenses and analytics.",
+    "Signed Android updates delivered through a dedicated GitHub release branch."
+  ],
+  "forceUpdate": false,
+  "minSupportedRevision": 1,
+  "sha256": "a4840febc18ef50b25e5e9d6b8071d9b9786036ff6c71c0415d306e6289ed2cd",
+  "sizeBytes": 58030238,
+  "signingCertificateSha256": "d33582d4ff2eff5e1587d3e1a0d952112bb89c75ef2c276e68cf4a7bde96cc0c"
+}
