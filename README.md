@@ -2,17 +2,23 @@
 
 Signed Android releases for AxleBook, separate from Aval Store Manager and Eyan Products.
 
-## AxleBook 1.0.0 (revision 1)
+## AxleBook 1.1.0 (revision 2)
 
-[Download the signed APK](https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.0.0-1/app-release.apk)
+[Download the signed APK](https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.1.0-2/app-release.apk)
 
-- Heavy vehicle rental and logistics ledger with owner-only access.
-- Atomic trips, expenses, driver settlements and monthly summaries.
-- Material 3 dashboard, fleet management and analytics.
-- In-app update checks with checksum and Android signing verification.
+- New road-and-axle logo and sunrise truck login banner.
+- Full-ledger customer, vehicle, driver, date, unsettled and loss filters.
+- Device-local trip draft recovery, repeat routes and customer/location suggestions.
+- Dated customer receipts and driver payments, references, reversals and preserved payment history.
+- All-time outstanding balances, month browsing and safe vehicle/driver editing.
+- Owner-only Firebase access, atomic accounting, analytics and signed in-app updates.
 
-The Android package is com.axlebook.axlebook. SHA256SUMS.txt and release_manifest.json identify the published file.
+Update through AxleBook's Check for updates action or install this APK over the existing signed app. Package com.axlebook.axlebook and the original AxleBook signing certificate are retained. Revision 2 is the minimum supported release for the dated payment workflows.
 
-For first sign-in, use the configured owner email and tap Forgot password? in AxleBook to set your password. Only the configured owner's Firebase UID can access business data. Android updates retain the same dedicated AxleBook signing certificate.
+For first sign-in, use the configured owner email and tap Forgot password? to set your password if needed. Only the configured owner's Firebase UID can access business data.
 
-This public branch contains release binaries and metadata only. Firebase service-account credentials, upload keys, passwords, private source code and business data are not published here.
+[Previous AxleBook 1.0.0 APK](https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.0.0-1/app-release.apk)
+
+SHA256SUMS.txt identifies both immutable APKs. The root release_manifest.json identifies the latest release; each version directory retains its own metadata.
+
+This public branch contains release binaries and metadata only. Firebase service-account credentials, upload keys, passwords, private source code and business data are excluded.

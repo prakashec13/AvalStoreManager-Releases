@@ -1,0 +1,18 @@
+{
+  "versionName": "1.1.0",
+  "revision": 2,
+  "apkPath": "artifacts/AxleBook-1.1.0+2.apk",
+  "apkUrl": "https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.1.0-2/app-release.apk",
+  "changelog": [
+    "New AxleBook road-and-axle logo and sunrise truck login banner.",
+    "Search and combine customer, vehicle, driver, date, unsettled and loss filters across the full trip ledger.",
+    "Recover unfinished trip drafts and repeat routes with customer and location suggestions.",
+    "Record dated customer receipts and driver payments with methods, references and reversible payment history.",
+    "View all-time customer dues and driver balances, browse dashboard months, and safely edit fleet details."
+  ],
+  "forceUpdate": false,
+  "minSupportedRevision": 2,
+  "sha256": "6ab8ccf47a3340dcdcb11f9920c5af2db17a62c5a1846de5654afb17c51ee00a",
+  "sizeBytes": 64199532,
+  "signingCertificateSha256": "d33582d4ff2eff5e1587d3e1a0d952112bb89c75ef2c276e68cf4a7bde96cc0c"
+}
