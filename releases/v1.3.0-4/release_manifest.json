@@ -1,0 +1,18 @@
+{
+  "versionName": "1.3.0",
+  "revision": 4,
+  "apkPath": "artifacts/AxleBook-1.3.0+4.apk",
+  "apkUrl": "https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.3.0-4/app-release.apk",
+  "changelog": [
+    "Freight-based driver salary, initially 16%, added separately to bata.",
+    "Configurable per-driver rates; saved trips retain their applied rate.",
+    "Monthly driver earnings with salary, bata, payments and remaining due.",
+    "Historical trips converted at 16% with reconciled profit and driver balances.",
+    "Atomic salary-aware accounting and compatibility protection against older app writes."
+  ],
+  "forceUpdate": true,
+  "minSupportedRevision": 4,
+  "sha256": "ad75b5fc2903b22176068685356913071c6ffe124e3687e5ea8ecbb7039fb29c",
+  "sizeBytes": 65020096,
+  "signingCertificateSha256": "d33582d4ff2eff5e1587d3e1a0d952112bb89c75ef2c276e68cf4a7bde96cc0c"
+}
