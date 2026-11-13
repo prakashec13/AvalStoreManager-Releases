@@ -2,9 +2,9 @@
 
 Signed Android releases for AxleBook, separate from Aval Store Manager and Eyan Products.
 
-## AxleBook 1.4.0 (revision 5)
+## AxleBook 1.4.1 (revision 6)
 
-[Download the signed APK](https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.4.0-5/app-release.apk)
+[Download the signed APK](https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.4.1-6/app-release.apk)
 
 - Explicit Fleet Edit, Archive / Restore and Delete actions. Used records retain their accounting history.
 - Money: customer ledgers, due dates and ageing, monthly driver payments, expenses and dated cash flow.
@@ -15,7 +15,7 @@ Signed Android releases for AxleBook, separate from Aval Store Manager and Eyan 
 - Full-tank fuel mileage, saved trip filters, attention cards and recoverable expense/payment drafts.
 - Existing owner profile, light/dark themes, branding and configurable driver salary rates remain available.
 
-Revision 5 is required for financial operations. Install over the existing signed app or use its normal update action. Package com.axlebook.axlebook and the original signing certificate are retained. Existing financial amounts are preserved.
+Revision 6 is required for financial operations. Install over the existing signed app or use its normal update action. Package com.axlebook.axlebook and the original signing certificate are retained. Existing financial amounts are preserved.
 
 Enable device reminders from Fleet → Service & renewals. Reports with over 1,000 records show a limit message rather than silently truncating. Planned bookings do not create revenue. Undated opening advances are excluded from dated cash flow and displayed separately.
 

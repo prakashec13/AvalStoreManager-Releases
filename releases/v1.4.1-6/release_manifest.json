@@ -1,0 +1,19 @@
+{
+  "versionName": "1.4.1",
+  "revision": 6,
+  "apkPath": "artifacts/AxleBook-1.4.1+6.apk",
+  "apkUrl": "https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.4.1-6/app-release.apk",
+  "changelog": [
+    "Visible Fleet edit, archive and safe delete actions.",
+    "Customer ledgers, agreed due dates, ageing, invoices and PDF/CSV statements.",
+    "Atomic monthly driver settlement and payment-date cash-flow reports.",
+    "Vehicle booking calendar, rental billing modes, service and renewal reminders.",
+    "Full-tank fuel mileage, saved trip filters, action cards and recoverable expense/payment drafts.",
+    "Customer names with different capitalization share one ledger."
+  ],
+  "forceUpdate": true,
+  "minSupportedRevision": 6,
+  "sha256": "877dd2a260af907bcfb88d1be66324c142661f5bb770457145ee90dbcc8094f7",
+  "sizeBytes": 74062516,
+  "signingCertificateSha256": "d33582d4ff2eff5e1587d3e1a0d952112bb89c75ef2c276e68cf4a7bde96cc0c"
+}
