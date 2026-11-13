@@ -2,27 +2,30 @@
 
 Signed Android releases for AxleBook, separate from Aval Store Manager and Eyan Products.
 
-## AxleBook 1.3.0 (revision 4)
+## AxleBook 1.4.0 (revision 5)
 
-[Download the signed APK](https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.3.0-4/app-release.apk)
+[Download the signed APK](https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.4.0-5/app-release.apk)
 
-- Freight-based driver salary, initially 16%, added to bata.
-- Configurable per-driver rates; saved trips keep their applied rate.
-- Monthly driver earnings: salary, bata, paid amounts and remaining due.
-- Historical trips converted at 16% with reconciled accounting.
-- Atomic salary-aware accounting and protection against older financial writes.
-- Existing owner profile, light/dark themes, fleet management, payments, drafts and analytics.
+- Explicit Fleet Edit, Archive / Restore and Delete actions. Used records retain their accounting history.
+- Money: customer ledgers, due dates and ageing, monthly driver payments, expenses and dated cash flow.
+- PDF / CSV invoices, customer and driver statements, and business reports.
+- Vehicle booking calendar with overlap checks and completion into trips.
+- Per-trip / kilometre / hour / day rental billing; salary follows final freight.
+- Service and renewal targets with optional Android reminders.
+- Full-tank fuel mileage, saved trip filters, attention cards and recoverable expense/payment drafts.
+- Existing owner profile, light/dark themes, branding and configurable driver salary rates remain available.
 
-Revision 4 is required for financial operations. Use your installed app's update-check action or install this APK over the existing signed app. Package com.axlebook.axlebook and the original AxleBook signing certificate are retained. After updating, use Fleet to set a driver's salary rate or open Monthly driver earnings.
+Revision 5 is required for financial operations. Install over the existing signed app or use its normal update action. Package com.axlebook.axlebook and the original signing certificate are retained. Existing financial amounts are preserved.
+
+Enable device reminders from Fleet → Service & renewals. Reports with over 1,000 records show a limit message rather than silently truncating. Planned bookings do not create revenue. Undated opening advances are excluded from dated cash flow and displayed separately.
 
 ## Previous releases
 
+- [1.3.0 revision 4](https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.3.0-4/app-release.apk)
 - [1.2.0 revision 3](https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.2.0-3/app-release.apk)
 - [1.1.0 revision 2](https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.1.0-2/app-release.apk)
 - [1.0.0 revision 1](https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.0.0-1/app-release.apk)
 
-Older versions are retained for release history and cannot save financial changes after the salary-accounting upgrade.
+SHA256SUMS.txt identifies immutable APKs. The root release_manifest.json identifies the latest release; version directories retain their metadata. Older binaries remain for history and cannot save financial changes after the upgrade.
 
-SHA256SUMS.txt identifies the immutable APKs. The root release_manifest.json identifies the latest release; version directories retain their own metadata. The app checks Firebase release metadata before offering an update.
-
-This public branch contains release binaries and metadata only. Credentials, upload keys, private source code, backups, migration audits and business data are excluded.
+This branch contains APKs and release metadata only. Credentials, signing keys, private source code, backups, migration audits and business data are excluded.

@@ -1,18 +1,18 @@
 {
-  "versionName": "1.3.0",
-  "revision": 4,
-  "apkPath": "artifacts/AxleBook-1.3.0+4.apk",
-  "apkUrl": "https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.3.0-4/app-release.apk",
+  "versionName": "1.4.0",
+  "revision": 5,
+  "apkPath": "artifacts/AxleBook-1.4.0+5.apk",
+  "apkUrl": "https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.4.0-5/app-release.apk",
   "changelog": [
-    "Freight-based driver salary, initially 16%, added separately to bata.",
-    "Configurable per-driver rates; saved trips retain their applied rate.",
-    "Monthly driver earnings with salary, bata, payments and remaining due.",
-    "Historical trips converted at 16% with reconciled profit and driver balances.",
-    "Atomic salary-aware accounting and compatibility protection against older app writes."
+    "Visible Fleet edit, archive and safe delete actions.",
+    "Customer ledgers, agreed due dates, ageing, invoices and PDF/CSV statements.",
+    "Atomic monthly driver settlement and payment-date cash-flow reports.",
+    "Vehicle booking calendar, rental billing modes, service and renewal reminders.",
+    "Full-tank fuel mileage, saved trip filters, action cards and recoverable expense/payment drafts."
   ],
   "forceUpdate": true,
-  "minSupportedRevision": 4,
-  "sha256": "ad75b5fc2903b22176068685356913071c6ffe124e3687e5ea8ecbb7039fb29c",
-  "sizeBytes": 65020096,
+  "minSupportedRevision": 5,
+  "sha256": "ec357709eaae0c7addca53658f37c2d50bfb69915d6d25d0c783a418d6d9cd42",
+  "sizeBytes": 74062516,
   "signingCertificateSha256": "d33582d4ff2eff5e1587d3e1a0d952112bb89c75ef2c276e68cf4a7bde96cc0c"
 }
