@@ -2,6 +2,12 @@
 
 Signed Android releases for AxleBook, separate from Aval Store Manager and Eyan Products.
 
+## AxleBook 1.4.2 (revision 7)
+
+[Download the signed APK](https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.4.2-7/app-release.apk)
+
+Overview now uses one financial summary for Weekly, Monthly, Custom and All time. The trip list follows the selected dates. Balances and reminders are under Needs attention. This is an optional update for revision 6 users.
+
 ## AxleBook 1.4.1 (revision 6)
 
 [Download the signed APK](https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.4.1-6/app-release.apk)
