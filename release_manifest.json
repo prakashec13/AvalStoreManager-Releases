@@ -1,16 +1,16 @@
 {
-  "versionName": "1.4.2",
-  "revision": 7,
-  "apkPath": "artifacts/AxleBook-1.4.2+7.apk",
-  "apkUrl": "https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.4.2-7/app-release.apk",
+  "versionName": "1.4.3",
+  "revision": 8,
+  "apkPath": "artifacts/AxleBook-1.4.3+8.apk",
+  "apkUrl": "https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.4.3-8/app-release.apk",
   "changelog": [
-    "Weekly, monthly, custom date, and all-time Overview filters.",
-    "One compact financial summary and a trip list for the selected period.",
-    "Balances and reminders grouped under Needs attention."
+    "Start a trip from one clear Add trip button.",
+    "Choose week, month, custom dates, or all time from one date selector.",
+    "Read plain money labels and recent routes. Find other actions in the menu."
   ],
   "forceUpdate": false,
   "minSupportedRevision": 6,
-  "sha256": "beed17effe2a73505dbdef5840223395f985f841ece2d6d34a29ee636c9c9322",
-  "sizeBytes": 74062340,
+  "sha256": "575a1ddcc01c84d14e88d7006ce255d59d1b72cea540ba80946a6cd6de1393e8",
+  "sizeBytes": 74062440,
   "signingCertificateSha256": "d33582d4ff2eff5e1587d3e1a0d952112bb89c75ef2c276e68cf4a7bde96cc0c"
 }

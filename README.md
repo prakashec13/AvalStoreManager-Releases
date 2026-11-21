@@ -2,6 +2,12 @@
 
 Signed Android releases for AxleBook, separate from Aval Store Manager and Eyan Products.
 
+## AxleBook 1.4.3 (revision 8)
+
+[Download the signed APK](https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.4.3-8/app-release.apk)
+
+Overview puts Add trip first. One date selector controls the totals and recent routes. The three-dot menu holds expenses, customer payments, balances, reminders and bookings.
+
 ## AxleBook 1.4.2 (revision 7)
 
 [Download the signed APK](https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.4.2-7/app-release.apk)
