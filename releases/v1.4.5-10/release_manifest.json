@@ -1,0 +1,14 @@
+{
+  "versionName": "1.4.5",
+  "revision": 10,
+  "apkPath": "artifacts/AxleBook-1.4.5+10.apk",
+  "apkUrl": "https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.4.5-10/app-release.apk",
+  "changelog": [
+    "Added Powered by VZP Technologies branding."
+  ],
+  "forceUpdate": false,
+  "minSupportedRevision": 6,
+  "sha256": "5783de49ef98a5356cf437230dde1e09a9e795316c326c06e20d466edb926dad",
+  "sizeBytes": 74062520,
+  "signingCertificateSha256": "d33582d4ff2eff5e1587d3e1a0d952112bb89c75ef2c276e68cf4a7bde96cc0c"
+}
