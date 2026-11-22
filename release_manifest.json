@@ -1,16 +1,14 @@
 {
-  "versionName": "1.4.3",
-  "revision": 8,
-  "apkPath": "artifacts/AxleBook-1.4.3+8.apk",
-  "apkUrl": "https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.4.3-8/app-release.apk",
+  "versionName": "1.4.4",
+  "revision": 9,
+  "apkPath": "artifacts/AxleBook-1.4.4+9.apk",
+  "apkUrl": "https://raw.githubusercontent.com/prakashec13/AvalStoreManager-Releases/axlebook/releases/v1.4.4-9/app-release.apk",
   "changelog": [
-    "Start a trip from one clear Add trip button.",
-    "Choose week, month, custom dates, or all time from one date selector.",
-    "Read plain money labels and recent routes. Find other actions in the menu."
+    "Choose Walk-in customer when a customer name is unavailable."
   ],
   "forceUpdate": false,
   "minSupportedRevision": 6,
-  "sha256": "575a1ddcc01c84d14e88d7006ce255d59d1b72cea540ba80946a6cd6de1393e8",
-  "sizeBytes": 74062440,
+  "sha256": "958bf82a1c5475e36591ab3f1f04eabc7de4855d2e3e1d0d39218ece29e78bce",
+  "sizeBytes": 74062520,
   "signingCertificateSha256": "d33582d4ff2eff5e1587d3e1a0d952112bb89c75ef2c276e68cf4a7bde96cc0c"
 }
